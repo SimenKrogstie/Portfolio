@@ -5,3 +5,5 @@ This is an overwiew of assignments in different courses I have taken during my t
 - GMGI221 - Automating GIS Processes
 - GMPE240 - Parameter Estimation
 - INF250 - Image Analysis
+- INF201 - Advanced Programming
+- INF201 - Programming and Data Processing
